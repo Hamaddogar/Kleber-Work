@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+}
+
+#container{
+    position:absolute;
+    text-align:center;
+    top:10%;
+    right:30%;
+    left:30%;
+    border: red;
+}
+
+#container legend{
+    color: red;
+}
+
+.button{
+    color: white;
+    background-color: slateblue;
+}
